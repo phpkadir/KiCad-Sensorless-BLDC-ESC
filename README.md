@@ -1,0 +1,1 @@
+# KiCad-Sensorless-BLDC-ESC
