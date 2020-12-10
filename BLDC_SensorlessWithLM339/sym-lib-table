@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LM339N)(type Legacy)(uri C:/Users/ahmet/Downloads/KiCad_Custom_Library/LM339N/LM339N.lib)(options "")(descr ""))
+)

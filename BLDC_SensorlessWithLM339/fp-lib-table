@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BLDC_SensorlessWithLM339)(type KiCad)(uri "C:/Users/ahmet/Documents/Kicad Projects/BLDC_SensorlessWithLM339")(options "")(descr ""))
+  (lib (name LM339N)(type KiCad)(uri C:/Users/ahmet/Downloads/KiCad_Custom_Library/LM339N)(options "")(descr ""))
+)
