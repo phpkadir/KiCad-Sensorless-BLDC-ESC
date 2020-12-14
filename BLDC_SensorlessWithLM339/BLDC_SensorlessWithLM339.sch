@@ -6,9 +6,9 @@ encoding utf-8
 Sheet 1 1
 Title "Sensorless BLDC Electronic Speed Controller "
 Date "2020-12-14"
-Rev "0.1"
+Rev "0.2"
 Comp "Ahmet Kaan Büyükkaya"
-Comment1 "Layout will be updated. PCB will be smaller."
+Comment1 "Layout is updated. PCB will be tested."
 Comment2 ""
 Comment3 ""
 Comment4 ""
